@@ -71,7 +71,19 @@ Face recognition using machine learning and countourlet algorithms
 - Practical hands-on skills: Soldering, debugging using lab tools including oscilloscope, signal generator, multimeter, and logic analyzer
 
 ## Talks & Lectures
+- Faculty Lecturer: BMET 1100 – Electronics Principles and Practice(BCIT school of Health Science) (Sep 2024 – Dec 2024)
+- Faculty Lecturer: BMET 2215 – Digital Circuit (BCIT School of Health Science) (Jan 2025 – Apr 2025) 
 
+- Conferance paper: “A SENSOR-INTEGRATED “SMART” URETERAL STENT AND WIRELESS IN-VITRO TEST FOR REAL-TIME OBSTRUCTION DETECTION”, 2023, 22nd International Conference on Solid-State Sensors, Kyoto, Japan
+- Conferance paper: “MEMS-ENABLED WIRELESS URETERAL STENT WITH INTEGRATED ANTENNA FOR LOCAL PRESSURE MONITORING”, 2021, 21st International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)
+- Conferance paper:“Face Recognition Using Contourlet-Based Features and Hybrid PSO-Neural Model”, 5th conference of Information and knowledge technology (IKT), Shiraz, Iran
+
+- Symposium at UBC SBME department, June 9, 2021
+
+- Teacher assistant:BMEG 102 201 Biomedical Engineering Lab @UBC, Jan 2020
+- Teacher assistant:APSC 160 - Introduction to Computation in Engineering Design, Sep 2019-Dec2024, University of British Columbia (UBC) (Department of Electrical Engineering) 
+- Teacher assistant:MECH 550E/575B: Principles of Mechatronics – Instrumentation, Sep 2019-2021, University of British Columbia (UBC) (Department of Mechanical Engineer) 
+- Teacher assistant:BMEG 591M Topics in Biomedical Engineering, Summer 2019,2021, University of British Columbia (UBC) (Department of Biomedical Engineer) 
 
 ## Selected Publications
 1. Nirvana Gharib, **Mohammad Reza Yousefi Darestani** and Kenichi Takahata “A Precessing-Coin-Like Rotary Actuator for Distal Endoscope Scanners: Proof-of-Concept Study”, Micromachines 2025, 16(1), 111; (Link).
