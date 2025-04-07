@@ -139,8 +139,8 @@ This project presents a system for accurate and dynamic tracking of hand and fin
 ### Smart Ureteral stent (_Sept 2018 - Oct 2024_) @UBC, Vancouver ,Canada
 This project focuses on the development of a novel smart ureteral stent designed to address the long-term adverse effects of traditional stenting, such as narrowing of the ureter and hydronephrosis. The stent integrates a radiofrequency antenna and a micro pressure sensor to enable wireless kidney pressure monitoring via resonance frequency, allowing for early detection of hydronephrosis. The LC tank formed by the antenna and pressure sensor responds to atmospheric pressure, with the resonance frequency detected by an external antenna calibrated to match it. In-vitro and ex-vivo tests using harvested kidney tissue demonstrate the device's potential for real-life clinical applications. The results highlight the stent's ability to detect early signs of hydronephrosis, suggesting that further research into wireless kidney pressure monitoring could lead to advancements in patient care and uropathy management.
 <div align="center">
-  <img src="Assets/img/SmartGlove.jpg" alt="SmartGlove" width="400"/>
-  <p><em>Smart Glove</em></p>
+  <img src="Assets/img/SmartStent.jpg" alt="SmartStent" width="400"/>
+  <p><em>Smart Ureteral Stent</em></p>
 </div>
 
 ### LipLoft (_Sept 2019 - Oct 2019_) @BCREGMED, Vancouver ,Canada
