@@ -115,39 +115,68 @@ o	Take a learner-centered approach.
 
 ## Projects
 
-### BellyBand kick counter
-The development of a novel hardware device for monitoring fetal movement offers an objective and reliable solution to track the health and well-being of the baby during pregnancy. Utilizing non-invasive sensors placed on the mother's abdomen, the device captures key parameters such as frequency, intensity, and patterns of fetal movements. This data provides healthcare professionals with valuable insights, improving the accuracy of fetal health assessments and enabling early detection of potential complications. For expectant mothers, the device offers reassurance and a tangible way to bond with their baby, while healthcare providers benefit from enhanced prenatal care and timely interventions.
-
-![BellyBand kick counter](/Assets/img/FlutterCare.jpg)
-
+### BellyBand kick counter (_Sept 2023 - Present_) @UBC, Vancouver ,Canada
+The development of a novel hardware device for monitoring fetal movement offers an objective and reliable solution to track the health and well-being of the baby during pregnancy. Utilizing non-invasive sensors placed on the mother's abdomen, the device captures key parameters such as frequency, intensity, and patterns of fetal movements. This data provides healthcare professionals with valuable insights, improving the accuracy of fetal health assessments and enabling early detection of potential complications. The device offers expectant mothers reassurance and a tangible way to bond with their baby, while healthcare providers benefit from enhanced prenatal care and timely interventions.
 <div align="center">
   <img src="Assets/img/FlutterCare.jpg" alt="BellyBand kick counter" width="400"/>
-  <p><em>Figure 1: BellyBand kick counter</em></p>
+  <p><em>BellyBand kick counter</em></p>
 </div>
 
-### KneeBrace
+### KneeBrace (_Sept 2020 - Sept 2023_) @Texavie, Vancouver ,Canada
 This project introduces a novel system for human pose estimation using a multimodal dataset collected from the Texavie MarsWear Intelligent Knee Sleeves, which measure IMU and strain sensor data. The system combines this wearable data with ground truth labels from a motion capture camera to generate 3D human models. By applying machine learning algorithms, the system effectively and accurately measures lower body movements, enabling pose estimation without the limitations of visual occlusion or camera field-of-view constraints. This approach has broad potential applications in home fitness, sports, healthcare, and physical rehabilitation.
+<div align="center">
+  <img src="Assets/img/KneeBrace.jpg" alt="KneeBrace" width="400"/>
+  <p><em>Smart Knee Brace</em></p>
+</div>
 
-### SmartGlove
+### SmartGlove (_Sept 2020 - Sept 2023_) @Texavie, Vancouver ,Canada
 This project presents a system for accurate and dynamic tracking of hand and finger movements using stretchable, washable smart gloves embedded with helical sensor yarns and inertial measurement units (IMUs). The system works wirelessly and enables real-time tracking of articulated hand and finger movements on both hands simultaneously. The sensor yarns exhibit a high dynamic range and maintain stability through extensive use and washing cycles, offering a practical solution for applications in human–computer interaction, robotics, the metaverse, and tele-health without concerns of occlusion or field-of-view limitations.
+<div align="center">
+  <img src="Assets/img/SmartGlove.jpg" alt="SmartGlove" width="400"/>
+  <p><em>Smart Glove</em></p>
+</div>
 
-### Smart Ureteral stent 
+### Smart Ureteral stent (_Sept 2018 - Oct 2024_) @UBC, Vancouver ,Canada
 This project focuses on the development of a novel smart ureteral stent designed to address the long-term adverse effects of traditional stenting, such as narrowing of the ureter and hydronephrosis. The stent integrates a radiofrequency antenna and a micro pressure sensor to enable wireless kidney pressure monitoring via resonance frequency, allowing for early detection of hydronephrosis. The LC tank formed by the antenna and pressure sensor responds to atmospheric pressure, with the resonance frequency detected by an external antenna calibrated to match it. In-vitro and ex-vivo tests using harvested kidney tissue demonstrate the device's potential for real-life clinical applications. The results highlight the stent's ability to detect early signs of hydronephrosis, suggesting that further research into wireless kidney pressure monitoring could lead to advancements in patient care and uropathy management.
+<div align="center">
+  <img src="Assets/img/SmartGlove.jpg" alt="SmartGlove" width="400"/>
+  <p><em>Smart Glove</em></p>
+</div>
 
-### LipLoft (_Sept 2019 - Oct 2019_) @BCREGMED, ,Tehran ,Iran
+### LipLoft (_Sept 2019 - Oct 2019_) @BCREGMED, Vancouver ,Canada
 This project involves the development of LipLoft, an assistive device designed to help people with quadriplegia control remote machines, specifically drones. LipLoft enables users with limited hand mobility to control the drone's movement in six degrees of freedom: up and down through huffing and puffing into the device, and left, right, forward, and backward by moving the LipSync head in the desired direction. User inputs are transmitted to the drone via Bluetooth, offering an intuitive and accessible way for individuals with limited mobility to control drone operations.
+<div align="center">
+  <img src="Assets/img/LipLoft.jpg" alt="LipLoft" width="400"/>
+  <p><em>Lip Loft Project</em></p>
+</div>
 
 ### Infant Incubator (_June 2017 - June 2018_) @HamiNozad ,Tehran ,Iran
 This project involves the development of an infant incubator system based on the STM32F103 microcontroller, featuring a 7-inch TFT display controlled by an LPC1788 processor. The system is designed to monitor and regulate the infant's skin body temperature, ambient temperature, and humidity levels. Using appropriate algorithms, the system controls a BT139 triac to maintain optimal temperature and humidity conditions. The incubator also includes several alarms to ensure safety, such as notifications for missing humidity or temperature sensors, low water levels, fan faults, and overheating.
+<div align="center">
+  <img src="Assets/img/Incubator.jpg" alt="Incubator" width="400"/>
+  <p><em>Infant Incubator Project</em></p>
+</div>
 
 ### MP3 Player (_May 2016 – June 2017_) @Freelance ,Tehran ,Iran
 This project involves an MP3 playback system based on the STM32F103 microcontroller, where audio data is read from an MMC connected to the microcontroller's SPI interface. The entire process, including data reading from the MMC and decompression of the MP3 files, is handled by the microcontroller without the need for external ICs. After decompression, the microcontroller utilizes its two 10-bit DAC peripherals to produce stereo sound. Key advantages of this device include its low cost, full implementation within the microcontroller, versatility for use in other projects, the ability to navigate between MP3 files, and displaying MP3 file data on the screen.
+<div align="center">
+  <img src="Assets/img/Mp3Player.jpg" alt="Mp3Player" width="400"/>
+  <p><em>Mp3 Player</em></p>
+</div>
 
 ### Ad-HOC Network  (_June 2013 – Oct 2015_) @Taksama ,Tehran ,Iran
 This project involves the development of a wireless ad hoc network (WANET) with 10 nodes, integrating TDMA and FDMA for full-duplex voice and data transmission. Unlike traditional networks, this decentralized system dynamically determines routing based on network connectivity. It features a handover capability that allows data and voice to be relayed through up to four nodes, extending its wireless range. In FDMA mode, the system achieves a hop rate of 500 frequency changes per second, enhancing security. Additionally, voice data is compressed at the transmitter and decompressed at the receiver using a CODEC. The combination of TDMA, FDMA, and CODEC technology ensures secure and efficient communication, making the system resilient against hacking attempts.
+<div align="center">
+  <img src="Assets/img/AdHoc.jpg" alt="AdHoc" width="400"/>
+  <p><em>AdHoc Project</em></p>
+</div>
 
 ### WIFI controller (Simple IOT SYSTEM) (_Feb 2016 – Marh 2017_) @Pars Security Industrial Tools ,Tehran ,Iran
 This project involves the development of a WiFi-based controller for remotely managing the ON/OFF state of devices, similar to IoT systems. Utilizing the secure WiFi protocol, it offers enhanced security compared to older ASK remote systems. Users can control multiple devices through a user-friendly Android application, selecting and sending commands wirelessly. The system also supports learning functions, timers for scheduled control, and the ability to network multiple nodes for seamless operation. Key advantages include centralized device management via a single phone, secure communication, easy installation, and intuitive operation.
+<div align="center">
+  <img src="Assets/img/WifiController.jpg" alt="WifiController" width="400"/>
+  <p><em>WiFi Controller</em></p>
+</div>
 
 
 
