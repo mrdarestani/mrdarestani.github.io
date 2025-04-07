@@ -17,6 +17,11 @@
 ## Education
 - Ph.D., Biomedical Engineer | The University of British Columbia (UBC) (2018-2024)	
 Designing, fabricating and testing an RF-MEMS antenna on the ureteral stent to preventing the hydronephrosis and enabling wireless measuring of the pressure inside the kidney.
+<div align="center">
+  <img src="Assets/img/UBCGraduation.jpg" alt="UBCGraduation" width="400"/>
+  <p><em>UBC Graduation</em></p>
+</div>
+
 - M.Sc, Electrical Engineering	| Islamic Azad University Tehran (IAUT) (2010-2013)	 
 Face recognition using machine learning and countourlet algorithms
 
@@ -101,6 +106,16 @@ Face recognition using machine learning and countourlet algorithms
 ## Certificate/Awards
 - Professional Engineer (P.Eng.) Application - Applied for the P.Eng. designation with Engineers and Geoscientists BC (EGBC); expected to obtain the designation within the next year
 - Received the Outstanding Young Researcher Paper Competition at the 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers’23) Conference
+<div align="center">
+  <img src="Assets/img/AwardWinner.jpg" alt="AwardWinner" width="400"/>
+  <p><em>Young Reasercher Award Ceremony</em></p>
+</div>
+
+<div align="center">
+  <img src="Assets/img/YoungResearcherAward.jpg" alt="YoungResearcherAward" width="400"/>
+  <p><em>Young Reasercher Award Certificate</em></p>
+</div>
+  
 - Nominated as finalist for the Outstanding Young Researcher Paper Competition at the 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers’23) Conference
 - Peoples’s choice award for best trainee poster 2021 Symposium at UBC SBME department, June 9, 2021
 - Recipient of the 1st place award as a member of the LipLoft team, The 2nd annual HACKATHON " 2019 HEALTH AND REGENERATIVE MEDICINE HACKATHON", By University of British Columbia (UBC), Vancouver, Canada, Oct, 2019.
