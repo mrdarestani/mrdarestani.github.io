@@ -120,9 +120,10 @@ The development of a novel hardware device for monitoring fetal movement offers 
 
 ![BellyBand kick counter](/Assets/img/FlutterCare.jpg)
 
-<p align="center">
+<div align="center">
   <img src="Assets/img/FlutterCare.jpg" alt="BellyBand kick counter" width="400"/>
-</p>
+  <p><em>Figure 1: BellyBand kick counter</em></p>
+</div>
 
 ### KneeBrace
 This project introduces a novel system for human pose estimation using a multimodal dataset collected from the Texavie MarsWear Intelligent Knee Sleeves, which measure IMU and strain sensor data. The system combines this wearable data with ground truth labels from a motion capture camera to generate 3D human models. By applying machine learning algorithms, the system effectively and accurately measures lower body movements, enabling pose estimation without the limitations of visual occlusion or camera field-of-view constraints. This approach has broad potential applications in home fitness, sports, healthcare, and physical rehabilitation.
