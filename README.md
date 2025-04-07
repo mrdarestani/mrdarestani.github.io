@@ -118,8 +118,8 @@ o	Take a learner-centered approach.
 ### BellyBand kick counter
 The development of a novel hardware device for monitoring fetal movement offers an objective and reliable solution to track the health and well-being of the baby during pregnancy. Utilizing non-invasive sensors placed on the mother's abdomen, the device captures key parameters such as frequency, intensity, and patterns of fetal movements. This data provides healthcare professionals with valuable insights, improving the accuracy of fetal health assessments and enabling early detection of potential complications. For expectant mothers, the device offers reassurance and a tangible way to bond with their baby, while healthcare providers benefit from enhanced prenatal care and timely interventions.
 
-![BellyBand kick counter](/Assets/img/FlutterCare.jpeg)
-![BellyBand kick counter](./Assets/img/FlutterCare.jpeg)
+![BellyBand kick counter](/Assets/img/FlutterCare.jpg)
+![BellyBand kick counter](./Assets/img/FlutterCare.jpg)
 
 ### KneeBrace
 This project introduces a novel system for human pose estimation using a multimodal dataset collected from the Texavie MarsWear Intelligent Knee Sleeves, which measure IMU and strain sensor data. The system combines this wearable data with ground truth labels from a motion capture camera to generate 3D human models. By applying machine learning algorithms, the system effectively and accurately measures lower body movements, enabling pose estimation without the limitations of visual occlusion or camera field-of-view constraints. This approach has broad potential applications in home fitness, sports, healthcare, and physical rehabilitation.
